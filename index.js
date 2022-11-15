@@ -1,0 +1,1 @@
+let firstletter = document.querySelector(".first-letter");
